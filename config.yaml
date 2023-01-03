@@ -1,0 +1,16 @@
+code: 131105
+gijiroku: data/gijiroku.csv
+giin: data/giin.csv
+iinkai: data/iinkai.csv
+years: data/years.csv
+jogai: data/exclusion.csv
+font: static/ShipporiMinchoB1-ExtraBold.ttf
+target:
+  place: 目黒区
+  start: 2001年5月
+  end: 2022年11月
+  url: http://www.kensakusystem.jp/meguro/sapphire.html
+developer:
+  name: 岡村健一
+  contact: https://twitter.com/Okamura_Kenichi
+  img: static/developer.png
